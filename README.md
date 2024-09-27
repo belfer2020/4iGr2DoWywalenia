@@ -1,5 +1,5 @@
 # 4i Gr 2 do wywalenia
-dodano kolaboratora
+dodano kolaboratora a nawet trzech
 
 Cześć tu Mateusz
 df
